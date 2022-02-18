@@ -1,0 +1,21 @@
+- (1) Añadir la información a la base de datos y posteriormente mostrar toda la información.
+
+
+
+- (2) Rebajar una estrella al hotel Hesperia Vigo y posteriormente aumentar una estrella a todos los hoteles.
+
+
+
+- (3) Listar todos los hoteles con el código postal 30206 y más de 2 estrellas.
+
+
+- (4) Listar todos los hoteles que tienen wifi y minibar.
+
+
+
+- (5) Listar todos los hoteles que tienen una habitación con el número 301.
+
+
+
+- (6) Listar los hoteles que tienen habitaciones con precios superiores a 180 euros.
+
